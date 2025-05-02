@@ -1,5 +1,3 @@
-### 📄 `README.md`
-
 # 🧠 Quiz Game (True/False)
 
 This is a simple command-line quiz game built using Python. The game presents a series of true/false questions, checks your answers, and keeps track of your score.
